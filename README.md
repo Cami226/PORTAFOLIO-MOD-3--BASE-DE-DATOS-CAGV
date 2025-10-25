@@ -39,8 +39,13 @@ El Diagrama Entidad-Relación (ERD) que representa las tablas y sus relaciones e
 
 5. Archivos del Proyecto
 Archivo README -	Descripción
+
 PARTE 1-P.sql	Definición de tablas y relaciones (DDL)
+
 PARTE 2-P.sql	Inserción
+
 PARTE 3-P.sql	Consultas para obtención de información (SELECT)
+
 PARTE 4-P.sql Actualización,  eliminación (DML) y transacciones
+
 ERR.png	Diagrama Entidad-Relación del modelo de datos
