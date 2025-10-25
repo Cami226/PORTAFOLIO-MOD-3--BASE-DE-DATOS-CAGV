@@ -38,14 +38,16 @@ El modelo de datos sigue estándares básicos para resolver problemas de baja co
 El Diagrama Entidad-Relación (ERD) que representa las tablas y sus relaciones está en el archivo ERD.png.
 
 5. Archivos del Proyecto
-Archivo README -	Descripción
 
-PARTE 1-P.sql	Definición de tablas y relaciones (DDL)
 
-PARTE 2-P.sql	Inserción
+-Archivo README -	Descripción
 
-PARTE 3-P.sql	Consultas para obtención de información (SELECT)
+-PARTE 1-P.sql	Definición de tablas y relaciones (DDL)
 
-PARTE 4-P.sql Actualización,  eliminación (DML) y transacciones
+-PARTE 2-P.sql	Inserción
 
-ERR.png	Diagrama Entidad-Relación del modelo de datos
+-PARTE 3-P.sql	Consultas para obtención de información (SELECT)
+
+-PARTE 4-P.sql Actualización,  eliminación (DML) y transacciones
+
+-ERR.png	Diagrama Entidad-Relación del modelo de datos
